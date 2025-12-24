@@ -1,4 +1,6 @@
 🗑️ Smart Waste Segregation Bin (MECLabs Project)
+
+
 📌 Overview
 
 This project aims to build a Smart Waste Segregation Bin that automatically classifies waste into biodegradable and non-biodegradable categories using computer vision and deep learning.
